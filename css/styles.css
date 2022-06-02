@@ -1,3 +1,14 @@
 .column {
-  
+  width: 30%;
+  text-align: center;
+  display: inline-block;
+  border: 5px solid black;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+img {
+  float: left;
+  border: 2px solid red;
+  border-radius: 20px;
+  height: 200px;
 }
